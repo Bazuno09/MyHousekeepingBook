@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LoginDataSet" targetNamespace="http://tempuri.org/LoginSet.xsd" xmlns:mstns="http://tempuri.org/LoginSet.xsd" xmlns="http://tempuri.org/LoginSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LoginDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="LoginDataSet" msprop:Generator_UserDSName="LoginDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="LoginDataTable" msprop:Generator_TableClassName="LoginDataTableDataTable" msprop:Generator_TableVarName="tableLoginDataTable" msprop:Generator_RowChangedName="LoginDataTableRowChanged" msprop:Generator_TablePropName="LoginDataTable" msprop:Generator_RowDeletingName="LoginDataTableRowDeleting" msprop:Generator_RowChangingName="LoginDataTableRowChanging" msprop:Generator_RowEvHandlerName="LoginDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="LoginDataTableRowDeleted" msprop:Generator_RowClassName="LoginDataTableRow" msprop:Generator_UserTableName="LoginDataTable" msprop:Generator_RowEvArgName="LoginDataTableRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="Password" msprop:Generator_ColumnVarNameInTable="columnPassword" msprop:Generator_ColumnPropNameInRow="Password" msprop:Generator_ColumnPropNameInTable="PasswordColumn" msprop:Generator_UserColumnName="Password" type="xs:string" minOccurs="0" />
+              <xs:element name="Password2" msprop:Generator_ColumnVarNameInTable="columnPassword2" msprop:Generator_ColumnPropNameInRow="Password2" msprop:Generator_ColumnPropNameInTable="Password2Column" msprop:Generator_UserColumnName="Password2" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

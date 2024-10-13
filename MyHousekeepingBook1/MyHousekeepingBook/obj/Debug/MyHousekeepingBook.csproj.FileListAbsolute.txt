@@ -1,0 +1,39 @@
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe.config
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.pdb
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.AssemblyReference.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Form1.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.ItemForm.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Login.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Properties.Resources.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Shinki.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.GenerateResource.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.exe
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.pdb
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe.config
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.pdb
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.AssemblyReference.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Form1.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.ItemForm.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Login.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Properties.Resources.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Shinki.resources
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.GenerateResource.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.exe
+C:\Users\S340\Desktop\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.pdb
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe.config
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.exe
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\bin\Debug\MyHousekeepingBook.pdb
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.AssemblyReference.cache
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Form1.resources
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.ItemForm.resources
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Login.resources
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Properties.Resources.resources
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.Shinki.resources
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.GenerateResource.cache
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.csproj.CoreCompileInputs.cache
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.exe
+C:\Users\S340\OneDrive\デスクトップ\MyHousekeepingBookCp9 - コピー (2)\MyHousekeepingBook1\MyHousekeepingBook\obj\Debug\MyHousekeepingBook.pdb
